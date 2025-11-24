@@ -1,7 +1,7 @@
 :root {
-    --azul: #004aad;
-    --verde: #24e086;
-    --rojo: #ff3131;
+    --azul: #253342;
+    --verde: #deb344;
+    --rojo: #a31b20;
     --blanco: #ffffff;
 }
 
@@ -41,7 +41,7 @@ body { padding-top: 80px; }
 /* HERO */
 .hero-section {
     height: 55vh;
-    background: url('/img/desarrollo/1.jpg') center/cover no-repeat;
+    background: url('/img/icons/logo-fondo.jpg') center/cover no-repeat;
 }
 .hero-title {
     font-size: 3rem;

@@ -3,30 +3,23 @@
     {
       "titulo": "¿Cómo creamos el escenario?",
       "fecha": "18-11-25",
-      "descripcion": "El proyecto base del cuarto de juegos",
+      "descripcion": "---",
       "imagen": "img/desarrollo/cancha_frente.jpg",
-      "link": "https://www.facebook.com/profile.php?id=61573153029601"
+      "link": "----"
     },
     {
-      "titulo": "Mira nuestras skins",
-      "fecha": "18-11-25",
-      "descripcion": "Mostramos cada uniforme de nuestro equipos aquí",
-      "imagen": "img/equipos/Perfil_MX.png",
-      "link": "https://www.instagram.com/_foos_fighters_/"
+      "titulo": "¡Nuevo tráiler disponible!",
+      "fecha": "05-11-25",
+      "descripcion": "Mira el nuevo tráiler de Epic Saves y descubre las emocionantes características del juego.",
+      "imagen": "img/desarrollo/trailer.jpg",
+      "link": "--"
     },
     {
       "titulo": "Página de Facebook",
       "fecha": "02-10-25",
       "descripcion": "Aquí verás todo nuestro desarrollo del videojuego",
       "imagen": "img/icons/logo.png",
-      "link": "https://www.facebook.com/profile.php?id=61573153029601"
-    },
-    {
-      "titulo": "Ya estamos en X",
-      "fecha": "02-10-25",
-      "descripcion": "Síguenos y enterate de todo lo que tiene que ver con el juego",
-      "imagen": "img/icons/1.png",
-      "link": "https://x.com/_Foos_Fighters_"
+      "link": "--"
     },
     {
       "titulo": "Primeras publicaciónes",
@@ -39,40 +32,22 @@
   
   "desarrollo": [
     {
-      "titulo": "Equipos rivales",
-      "fecha": "2025-11-15",
-      "descripcion": "Nuestras pruebas con los equipos rivales y sus instancias individuales nos acercan cada vez más a la recta final",
-      "imagen": "img/desarrollo/vs.jpg"
-    },
-    {
-      "titulo": "Items",
-      "fecha": "2025-10-29",
-      "descripcion": "Contamos con items que ayudan al jugador a obtener una ventaja, siempre es bueno estar hidratadp",
-      "imagen": "img/desarrollo/termo.jpg"
-    },
-    {
       "titulo": "Interfaz de usuario",
       "fecha": "2025-10-21",
       "descripcion": "Entre nuestros bocetos les compartimos el HUD de nuestro proyecto donde mostramos la barra de poder y las vidas utilizadas de cada equipo",
       "imagen": "img/desarrollo/hud.jpg"
     },
     {
-      "titulo": "Retos y dificultades",
-      "fecha": "2025-10-14",
-      "descripcion": "En su momento nos topamos con muchas dificultades durante las pruebas, no mostraba bien las skins o ni siguiera aparecia el modelo. Pero todo esto nos ha servido como aprendizaje",
-      "imagen": "img/desarrollo/bug.jpg"
+      "titulo": "Modelado 3D de personajes",
+      "fecha": "2025-09-15",
+      "descripcion": "Aquí pueden ver el avance en el modelado 3D de nuestros personajes principales utilizando Blender.",
+      "imagen": "img/desarrollo/modelado3D.jpg"
     },
     {
-      "titulo": "Nuestro desarrollo con las skins",
-      "fecha": "2025-09-24",
-      "descripcion": "Para la elección de personaje utilizamos como referrencia los uniformes de los equipos del mundial FIFA y los utilizamos para diferenciar entre competidores",
-      "imagen": "img/equipos/Perfil_ARG.png"
-    },
-    {
-      "titulo": "¿Por qué hacer un futbolito?",
-      "fecha": "2025-08-16",
-      "descripcion": "Usando de base un proyecto inicial de patio de juegos se nos ocurrio hambientar el combate en una cancha de futbolito para que tuviera sentido con el entorno",
-      "imagen": "img/desarrollo/fut.jpg"
+      "titulo": "Diseño del escenario",
+      "fecha": "2025-08-30",
+      "descripcion": "Presentamos el diseño inicial del escenario principal del videojuego, creado con Unity.",
+      "imagen": "img/desarrollo/escenario.jpg"
     },
     {
       "titulo": "Creando un videojuego desde 0",
