@@ -1,8 +1,8 @@
 :root {
---azul: #004aad;
---verde: #24e086;
---rojo: #ff3131;
---blanco: #ffffff;
+    --azul: #253342;
+    --verde: #deb344;
+    --rojo: #a31b20;
+    --blanco: #ffffff;
 }
 * {
     font-family: 'Russo One', sans-serif;
@@ -41,7 +41,7 @@ body { padding-top: 80px; }
 /* HERO */
 .hero-section {
     height: 80vh;
-    background: url('/img/desarrollo/cancha_frente_black.jpg') center/cover no-repeat;
+    background: url('/img/icons/logo-fondo.jpg') center/cover no-repeat;
 }
 
 .hero-title {
