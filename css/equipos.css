@@ -1,0 +1,86 @@
+:root {
+--azul: #004aad;
+--verde: #24e086;
+--rojo: #ff3131;
+--blanco: #ffffff;
+}
+* {
+    font-family: 'Russo One', sans-serif;
+}
+.bg-foss {
+    background: linear-gradient(90deg, var(--rojo),  var(--azul));
+}
+/* NAV */
+nav.navbar {
+    position: fixed;
+    background: black;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+body { padding-top: 80px; }
+
+.foss-logo {
+    color: var(--blanco);
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+}
+.foss-logo:hover{
+    color: var(--verde);
+}
+.foss-link {
+    color: var(--blanco) !important;
+    margin-left: 20px;
+    font-size: 1.1rem;
+}
+
+.foss-link:hover {
+    color: var(--verde) !important;
+}
+
+/* HERO */
+.hero-section {
+    height: 25vh;
+}
+
+.hero-title {
+    font-size: 4rem;
+    color: #ffffff;
+    text-shadow: 3px 3px #000;
+}
+#equipos{
+  color: var(--verde);
+}
+
+/* CARDS */
+.foss-card {
+    background: rgba(34, 34, 34, 0.671);
+    padding-bottom: 15px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+    backdrop-filter: blur(8px);
+    overflow: hidden;
+    height: 350px;;
+    transition: transform .3s;
+    margin-bottom: 25px;
+}
+
+.foss-card:hover {
+    transform: scale(1.05);
+}
+
+.foss-card-title {
+    color: var(--verde);
+    margin: 5px;
+    font-size: 1.5rem;
+}
+
+.foss-card-text {
+    margin: 5px;
+    color: #fff;
+}
+/* FOOTER */
+.foss-footer {
+    color: white;
+    background: rgba(0,0,0,0.2);
+}
