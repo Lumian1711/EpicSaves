@@ -3,57 +3,51 @@
     {
       "titulo": "¿Cómo creamos el escenario?",
       "fecha": "18-11-25",
-      "descripcion": "---",
-      "imagen": "img/desarrollo/cancha_frente.jpg",
-      "link": "----"
+      "descripcion": "Utimilamos Unreal Engine para diseñar y dar vida al escenario principal del videojuego.",
+      "imagen": "img/noticias/3.jpeg",
+      "link": "https://www.instagram.com/epicsaves_mty/"
     },
     {
       "titulo": "¡Nuevo tráiler disponible!",
       "fecha": "05-11-25",
       "descripcion": "Mira el nuevo tráiler de Epic Saves y descubre las emocionantes características del juego.",
-      "imagen": "img/desarrollo/trailer.jpg",
-      "link": "--"
+      "imagen": "img/desarrollo/1.jpeg",
+      "link": "https://www.instagram.com/epicsaves_mty/"
     },
     {
-      "titulo": "Página de Facebook",
+      "titulo": "Página de Instagram",
       "fecha": "02-10-25",
-      "descripcion": "Aquí verás todo nuestro desarrollo del videojuego",
-      "imagen": "img/icons/logo.png",
-      "link": "--"
+      "descripcion": "Aquí verás novedades del videojuego",
+      "imagen": "img/desarrollo/5.jpg",
+      "link": "https://www.instagram.com/epicsaves_mty/"
     },
     {
       "titulo": "Primeras publicaciónes",
       "fecha": "24-09-25",
       "descripcion": "¡Siguenos en nuestras redes sociales, click para ir a instagram!",
       "imagen": "img/icons/logo.png",
-      "link": "https://www.instagram.com/_foos_fighters_/"
+      "link": "https://www.instagram.com/epicsaves_mty/"
     }
   ],
   
   "desarrollo": [
     {
-      "titulo": "Interfaz de usuario",
-      "fecha": "2025-10-21",
-      "descripcion": "Entre nuestros bocetos les compartimos el HUD de nuestro proyecto donde mostramos la barra de poder y las vidas utilizadas de cada equipo",
-      "imagen": "img/desarrollo/hud.jpg"
-    },
-    {
-      "titulo": "Modelado 3D de personajes",
-      "fecha": "2025-09-15",
-      "descripcion": "Aquí pueden ver el avance en el modelado 3D de nuestros personajes principales utilizando Blender.",
-      "imagen": "img/desarrollo/modelado3D.jpg"
-    },
-    {
-      "titulo": "Diseño del escenario",
-      "fecha": "2025-08-30",
-      "descripcion": "Presentamos el diseño inicial del escenario principal del videojuego, creado con Unity.",
-      "imagen": "img/desarrollo/escenario.jpg"
-    },
-    {
       "titulo": "Creando un videojuego desde 0",
       "fecha": "2025-08-05",
       "descripcion": "Aqui puedes ver nuestro porgreso desde el día 1",
-      "imagen": "img/equipos/CND.jpg"
+      "imagen": "img/icons/logo.png"
+    },
+    {
+      "titulo": "Implementacion de nuestro escenario",
+      "fecha": "2025-08-05",
+      "descripcion": "Importamos un modelo de internet y lo adaptamos a nuestro videojuego usando Unreal Engine",
+      "imagen": "img/noticias/1.jpeg"
+    },
+    {
+      "titulo": "Balon de futbol interactivo",
+      "fecha": "2025-08-05",
+      "descripcion": "Creamos un balon de futbol que reacciona a las colisiones y movimientos del jugador",
+      "imagen": "img/noticias/1.jpeg"
     }
   ]
 }
