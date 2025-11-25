@@ -18,7 +18,7 @@
       "titulo": "Página de Instagram",
       "fecha": "02-10-25",
       "descripcion": "Aquí verás novedades del videojuego",
-      "imagen": "img/desarrollo/5.jpg",
+      "imagen": "img/desarrollo/5.jpeg",
       "link": "https://www.instagram.com/epicsaves_mty/"
     },
     {
@@ -47,7 +47,7 @@
       "titulo": "Balon de futbol interactivo",
       "fecha": "2025-08-05",
       "descripcion": "Creamos un balon de futbol que reacciona a las colisiones y movimientos del jugador",
-      "imagen": "img/noticias/1.jpeg"
+      "imagen": "img/noticias/3.jpeg"
     }
   ]
 }
